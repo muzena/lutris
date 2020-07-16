@@ -1,4 +1,4 @@
-lutris (0.5.7) focal; urgency=medium
+lutris (0.5.7~focal) focal; urgency=medium
 
   * Use Meson and Ninja to build translation files
   * Improve Debian package compliance with standards
