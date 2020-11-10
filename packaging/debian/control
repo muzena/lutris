@@ -4,6 +4,7 @@ Priority: optional
 Maintainer: Mathieu Comandon <strider@strycore.com>
 Build-Depends: debhelper-compat (= 12),
                dh-sequence-python3,
+               libappstream-dev,
                meson,
 Rules-Requires-Root: no
 Standards-Version: 4.5.0
